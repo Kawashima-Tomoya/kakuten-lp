@@ -174,7 +174,7 @@ li {
       }
     }
     @media screen and (max-width: 768px) {
-      right: 200px;
+      right: 172px;
       overflow: visible;
     }
   }
@@ -341,7 +341,7 @@ li {
   margin: 0 auto;
   margin-bottom: $spacing-3;
   padding: $spacing-3 0 $spacing-6;
-  background: url("./assets/images/若葉のアイコン.svg") no-repeat bottom center;
+  background: url("../images/若葉のアイコン.svg") no-repeat bottom center;
   background-size: 32px;
   line-height: 2.4rem;
   border-radius: 60px;
@@ -364,7 +364,7 @@ li {
   }
 }
 .pickup-mv {
-  background-image: url("./assets/images/annie-spratt-ncQ2sguVlgo-unsplash.jpg");
+  background-image: url("../images/annie-spratt-ncQ2sguVlgo-unsplash.jpg");
   background-size: cover;
   background-position: 0 0%;
 }
@@ -379,8 +379,8 @@ li {
   margin: 0 auto;
   margin-bottom: $spacing-3;
   padding: $spacing-3 0 $spacing-6;
-  background: url("./assets/images/観葉植物の無料アイコン素材.svg") no-repeat
-    bottom center;
+  background: url("../images/観葉植物の無料アイコン素材.svg") no-repeat bottom
+    center;
   background-size: 32px;
   line-height: 2.4rem;
   border-radius: 60px;
@@ -409,7 +409,7 @@ li {
   }
 }
 .newarrival-mv {
-  background-image: url("./assets/images/26408917_s.jpg");
+  background-image: url("../images/26408917_s.jpg");
   background-size: cover;
   background-position: 0 0%;
   left: 0;
