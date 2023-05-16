@@ -147,7 +147,6 @@ li {
 /* mainvisual */
 .mainvisual {
   display: block;
-  width: 100%;
   min-height: 100vh;
   position: relative;
   overflow: visible;
@@ -211,7 +210,7 @@ li {
 }
 @media screen and (max-width: 768px) {
   .mainvisual .visual-image {
-    right: 172px;
+    right: 72px;
     overflow: visible;
   }
 }
@@ -226,6 +225,7 @@ li {
 }
 @media screen and (max-width: 768px) {
   .mainvisual .main-line {
+    top: -140px;
     left: -80px;
     line-height: 56px;
   }
