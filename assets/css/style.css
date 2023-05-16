@@ -208,12 +208,6 @@ li {
     opacity: 0;
   }
 }
-@media screen and (max-width: 768px) {
-  .mainvisual .visual-image {
-    right: 72px;
-    overflow: visible;
-  }
-}
 .mainvisual .main-line {
   font-size: 2rem;
   position: absolute;
