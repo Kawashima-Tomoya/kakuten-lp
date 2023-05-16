@@ -510,7 +510,7 @@ li {
   background-color: #f0f2f3;
   box-shadow: 5px 5px 10px #8a9295;
 }
-.section-title04 p {
+.section-title04 span {
   margin: auto 0;
 }
 @media screen and (max-width: 768px) {
